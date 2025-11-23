@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "clNtbYgWQWW4lBmocGfNL0BxGOTBmBKRHxU8peoEpTg=",
+  "Source": "TvShows.Api",
+  "BasePath": "_content/TvShows.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
